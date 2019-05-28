@@ -16,7 +16,7 @@
 Inside this repo, run the following command to create a new react app:
 
 ```sh
-npx create-react-app my-book
+npx create-react-app wishlist-app
 ```
 
 > `npx` is a tool for running JavaScript npm modules that are intended for use as commands.
