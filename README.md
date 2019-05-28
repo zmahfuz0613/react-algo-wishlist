@@ -24,7 +24,7 @@ npx create-react-app wishlist-app
 Use `npm start` to start a server that will serve your new React application:
 
 ```bash
-cd my-book
+cd wishlist-app
 npm start
 ```
 
