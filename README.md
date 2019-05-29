@@ -41,6 +41,7 @@ Your job will be to implement the following:
 
 Your App component will have three children: Header, List, and the Footer component.
 The List component will have a child component, the Item component.
+It will also have a `handleItemUpVote` and `handleItemDownVote` method that will be passed down via props to the Item component.
 
 **Required**
 - Your app should resemble the mockup as closely as possible.
